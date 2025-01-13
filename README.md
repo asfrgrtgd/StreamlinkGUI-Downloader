@@ -19,6 +19,10 @@ StreamlinkGUI-Downloaderは、YouTubeおよびTwitchの動画を簡単にダウ�
 6. 「ダウンロード開始」ボタンをクリックしてダウンロードを開始します。
 7. ダウンロードの進行状況が表示され、完了後にファイルパスが表示されます。
 
+## ダウンロード
+
+[ここ](https://github.com/asfrgrtgd/StreamlinkGUI-Downloader/releases/tag/v1.0.0)からダウンロード出来ます。
+
 ## ライセンス
 
 MIT License. 詳細は [LICENSE](LICENSE) を参照してください。
